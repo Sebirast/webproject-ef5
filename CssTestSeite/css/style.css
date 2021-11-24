@@ -1,0 +1,22 @@
+body {
+    background-color: cadetblue;
+}
+.wrapper {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    max-width: 1024px;
+    border: 2px solid olive;
+}
+
+.titlebox {
+    text-align: center;
+    margin: 30px;
+    flex-direction: column;
+}
+
+.background-image {
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+}
